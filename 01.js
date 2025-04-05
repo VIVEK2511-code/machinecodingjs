@@ -7,4 +7,4 @@ function ptanii(superman,delay){
 
 }
 
-ptanii("vivek",2)
+ptanii("vivek",2,5,6,7,8)
